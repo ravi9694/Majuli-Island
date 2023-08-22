@@ -1,0 +1,104 @@
+{
+    "start": {
+        "0": "SM1.JPG"
+    },
+    "SM1.JPG": {
+        "90": "SM4.JPG",
+        "270": "SM2.JPG"
+    },
+    "SM2.JPG": {
+        "90": "SM1.JPG",
+        "270": "SM3.JPG"
+    },
+    "SM3.JPG": {
+        "180": "SM2.JPG"
+    },
+    "SM4.JPG": {
+        "0": "SM5.JPG",
+        "270": "SM1.JPG"
+    },
+    "SM5.JPG": {
+        "0": "SM4.JPG",
+        "270": "SM6.JPG"
+    },
+    "SM6.JPG": {
+        "0": "SM5.JPG",
+        "180": "SM8.JPG",
+        "270": "SM7.JPG"
+    },
+    "SM7.JPG": {
+        "0": "SM6.JPG"
+    },
+    "SM8.JPG": {
+        "0": "SM6.JPG",
+        "180": "SM9.JPG"
+    },
+    "SM9.JPG": {
+        "0": "SM8.JPG",
+        "90": "SM10.JPG"
+    },
+    "SM10.JPG": {
+        "0": "SM11.JPG",
+        "90": "SM28.JPG",
+        "270": "SM9.JPG"
+    },
+    "SM11.JPG": {
+        "0": "SM12.JPG",
+        "180": "SM10.JPG"
+    },
+    "SM12.JPG": {
+        "0": "SM13.JPG",
+        "180": "SM11.JPG"
+    },
+    "SM13.JPG": {
+        "0": "SM14.JPG",
+        "90": "SM12.JPG"
+    },
+    "SM14.JPG": {
+        "0": "SM15.JPG",
+        "180": "SM13.JPG"
+    },
+    "SM15.JPG": {
+        "180": "SM14.JPG"
+    },
+    "SM16.JPG": {
+        "180": "SM20.JPG",
+        "270": "SM17.JPG"
+    },
+    "SM17.JPG": {
+        "90": "SM16.JPG",
+        "270": "SM18.JPG"
+    },
+    "SM18.JPG": {
+        "90": "SM17.JPG",
+        "270": "SM19.JPG"
+    },
+    "SM19.JPG": {
+        "270": "SM18.JPG"
+    },
+    "SM20.JPG": {
+        "0": "SM16.JPG",
+        "90": "SM21.JPG"
+    },
+    "SM21.JPG": {
+        "45": "SM24.JPG",
+        "90": "SM25.JPG",
+        "270": "SM20.JPG"
+    },
+    "SM22.JPG": {
+        "225": "SM25.JPG"
+    },
+    "SM24.JPG": {
+        "0": "SM25.JPG",
+        "45": "SM21.JPG"
+    },
+    "SM25.JPG": {
+        "180": "SM24.JPG",
+        "225": "SM22.JPG",
+        "270": "SM28.JPG"
+    },
+    "SM28.JPG": {
+        "0": "SM25.JPG",
+        "270": "SM10.JPG"
+    }
+}

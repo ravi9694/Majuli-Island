@@ -1,0 +1,39 @@
+{
+    "start": {
+        "0": "CP1.JPG"
+    },
+    "CP1.JPG": {
+        "0": "CP2.JPG"
+    },
+    "CP2.JPG": {
+        "0": "CP3.JPG",
+        "180": "CP1.JPG"
+    },
+    "CP3.JPG": {
+        "0": "CP4.JPG",
+        "180": "CP2.JPG"
+    },
+    "CP4.JPG": {
+        "0": "CP5.JPG",
+        "180": "CP3.JPG"
+    },
+    "CP5.JPG": {
+        "0": "CP6.JPG",
+        "180": "CP4.JPG"
+    },
+    "CP6.JPG": {
+        "0": "CP7.JPG",
+        "180": "CP5.JPG"
+    },
+    "CP7.JPG": {
+        "0": "CP8.JPG",
+        "180": "CP6.JPG"
+    },
+    "CP8.JPG": {
+        "0": "CP9.JPG",
+        "180": "CP7.JPG"
+    },
+    "CP9.JPG": {
+        "180": "CP4.JPG"
+    }
+}

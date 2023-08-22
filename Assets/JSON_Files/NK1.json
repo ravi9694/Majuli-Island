@@ -1,0 +1,227 @@
+{
+    "start": {
+        "0": "NK1.JPG"
+    },
+    "NK1.JPG": {
+        "225": "NK2.JPG"
+    },
+    "NK2.JPG": {
+        "0": "NK3.JPG",
+        "225": "NK1.JPG"
+    },
+    "NK3.JPG": {
+        "0": "NK4.JPG",
+        "180": "NK2.JPG"
+    },
+    "NK4.JPG": {
+        "0": "NK5.JPG",
+        "180": "NK3.JPG"
+    },
+    "NK5.JPG": {
+        "0": "NK6.JPG",
+        "180": "NK4.JPG"
+    },
+    "NK6.JPG": {
+        "0": "NK7.JPG",
+        "180": "NK5.JPG"
+    },
+    "NK7.JPG": {
+        "0": "NK8.JPG",
+        "180": "NK6.JPG"
+    },
+    "NK8.JPG": {
+        "0": "NK9.JPG",
+        "180": "NK7.JPG"
+    },
+    "NK9.JPG": {
+        "0": "NK10.JPG",
+        "180": "NK8.JPG"
+    },
+    "NK10.JPG": {
+        "0": "NK11.JPG",
+        "180": "NK9.JPG"
+    },
+    "NK11.JPG": {
+        "0": "NK13.JPG",
+        "180": "NK10.JPG"
+    },
+    "NK13.JPG": {
+        "0": "NK14.JPG",
+        "180": "NK11.JPG"
+    },
+    "NK14.JPG": {
+        "0": "NK43.JPG",
+        "90": "NK13.JPG",
+        "270": "NK15.JPG",
+        "315": "NK44.JPG"
+    },
+    "NK15.JPG": {
+        "0": "NK16.JPG",
+        "90": "NK44.JPG",
+        "135": "NK43.JPG",
+        "180": "NK14.JPG"
+    },
+    "NK16.JPG": {
+        "0": "NK17.JPG",
+        "135": "NK44.JPG",
+        "180": "NK15.JPG"
+    },
+    "NK17.JPG": {
+        "0": "NK18.JPG",
+        "180": "NK16.JPG"
+    },
+    "NK18.JPG": {
+        "0": "NK19.JPG",
+        "180": "NK17.JPG"
+    },
+    "NK19.JPG": {
+        "90": "NK20.JPG",
+        "270": "NK18.JPG"
+    },
+    "NK20.JPG": {
+        "90": "NK21.JPG",
+        "270": "NK19.JPG"
+    },
+    "NK21.JPG": {
+        "90": "NK22.JPG",
+        "180": "NK20.JPG"
+    },
+    "NK22.JPG": {
+        "90": "NK23.JPG",
+        "270": "NK21.JPG"
+    },
+    "NK23.JPG": {
+        "90": "NK24.JPG",
+        "135": "NK52.JPG",
+        "270": "NK22.JPG"
+    },
+    "NK24.JPG": {
+        "90": "NK25.JPG",
+        "270": "NK23.JPG",
+        "180": "NK52.JPG"
+    },
+    "NK25.JPG": {
+        "90": "NK26.JPG",
+        "225": "NK52.JPG",
+        "270": "NK24.JPG"
+    },
+    "NK26.JPG": {
+        "90": "NK27.JPG",
+        "270": "NK25.JPG"
+    },
+    "NK27.JPG": {
+        "0": "NK28.JPG",
+        "90": "NK26.JPG"
+    },
+    "NK28.JPG": {
+        "0": "NK29.JPG",
+        "180": "NK27.JPG"
+    },
+    "NK29.JPG": {
+        "0": "NK30.JPG",
+        "180": "NK28.JPG"
+    },
+    "NK30.JPG": {
+        "0": "NK31.JPG",
+        "180": "NK29.JPG"
+    },
+    "NK31.JPG": {
+        "0": "NK32.JPG",
+        "180": "NK30.JPG"
+    },
+    "NK32.JPG": {
+        "45": "NK35.JPG",
+        "180": "NK31.JPG"
+    },
+
+
+    "NK35.JPG": {
+        "0": "NK36.JPG",
+        "90": "NK37.JPG",
+        "225": "NK32.JPG"
+    },
+    "NK36.JPG": {
+        "0": "NK35.JPG",
+        "315": "NK37.JPG"
+    },
+    "NK37.JPG": {
+        "0": "NK38.JPG",
+        "180": "NK35.JPG",
+        "225": "NK36.JPG"
+    },
+    "NK38.JPG": {
+        "0": "NK41.JPG",
+        "180": "NK37.JPG"
+    },
+
+
+
+    "NK41.JPG": {
+        "0": "NK42.JPG",
+        "45": "NK45.JPG",
+        "180": "NK38.JPG"
+    },
+    "NK42.JPG": {
+        "0": "NK43.JPG",
+        "45": "NK44.JPG",
+        "90": "NK45.JPG",
+        "180": "NK41.JPG"
+    },
+    "NK43.JPG": {
+        "45": "NK13.JPG",
+        "90": "NK14.JPG",
+        "135": "NK15.JPG",
+        "180": "NK44.JPG",
+        "225": "NK45.JPG",
+        "270": "NK42.JPG"
+    },
+    "NK44.JPG": {
+        "90": "NK45.JPG",
+        "135": "NK42.JPG",
+        "180": "NK43.JPG",
+        "225": "NK14.JPG",
+        "270": "NK15.JPG",
+        "315": "NK16.JPG"
+    },
+    "NK45.JPG": {
+        "0": "NK42.JPG",
+        "45": "NK43.JPG",
+        "90": "NK44.JPG",
+        "180": "NK47.JPG",
+        "270": "NK46.JPG"
+    },
+    "NK46.JPG": {
+        "0": "NK31.JPG",
+        "45": "NK32.JPG",
+        "180": "NK45.JPG",
+        "225": "NK47.JPG"
+    },
+    "NK47.JPG": {
+        "0": "NK48.JPG",
+        "135": "NK46.JPG",
+        "180": "NK45.JPG"
+    },
+    "NK48.JPG": {
+        "90": "NK47.JPG",
+        "270": "NK49.JPG"
+    },
+    "NK49.JPG": {
+        "90": "NK48.JPG",
+        "270": "NK50.JPG"
+    },
+    "NK50.JPG": {
+        "90": "NK49.JPG",
+        "270": "NK51.JPG"
+    },
+    "NK51.JPG": {
+        "0": "NK50.JPG",
+        "180": "NK52.JPG"
+    },
+    "NK52.JPG": {
+        "0": "NK51.JPG",
+        "135": "NK23.JPG",
+        "180": "NK24.JPG",
+        "225": "NK25.JPG"
+    }
+
+}

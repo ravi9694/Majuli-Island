@@ -1,0 +1,27 @@
+{
+    "start": {
+        "0": "RS1.JPG"
+    },
+    "RS1.JPG": {
+        "0": "RS2.JPG"
+    },
+    "RS2.JPG": {
+        "0": "RS3.JPG",
+        "180": "RS1.JPG"
+    },
+    "RS3.JPG": {
+        "90": "RS4.JPG",
+        "270": "RS2.JPG"
+    },
+    "RS4.JPG": {
+        "90": "RS3.JPG",
+        "270": "RS5.JPG"
+    },
+    "RS5.JPG": {
+        "0": "RS6.JPG",
+        "180": "RS4.JPG"
+    },
+    "RS6.JPG": {
+        "180": "RS5.JPG"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "start":{
+        "0":"GT1.JPG"
+    },
+    "GT1.JPG":{
+        "270":"GT9.JPG"
+    },
+    "GT9.JPG":{
+        "90":"GT1.JPG",
+        "270":"GT8.JPG"
+    },
+    "GT8.JPG":{
+        "270":"GT9.JPG",
+        "90":"GT2.JPG",
+        "45":"GT3.JPG"
+    },
+    "GT2.JPG":{
+        "270":"GT8.JPG",
+        "0":"GT3.JPG",
+        "90":"GT7.JPG"
+    },
+    "GT3.JPG":{
+        "180":"GT2.JPG",
+        "0":"GT4.JPG",
+        "135":"GT7.JPG",
+        "225":"GT8.JPG"
+    },
+    "GT4.JPG":{
+        "90":"GT3.JPG"
+    },
+    "GT7.JPG":{
+        "270":"GT2.JPG",
+        "90":"GT5.JPG",
+        "315":"GT3.JPG"
+    },
+    "GT5.JPG":{
+        "90":"GT7.JPG",
+        "270":"GT6.JPG"
+    },
+    "GT6.JPG":{
+        "270":"GT5.JPG"
+    }
+
+}
