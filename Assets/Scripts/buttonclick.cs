@@ -21,9 +21,9 @@ public class buttonclick : MonoBehaviour
     {
         SceneManager.LoadScene("mapview");
     }
-    public void gotoBK(){
-        SceneManager.LoadScene("BK1");
-    }
+    // public void gotoBK(){
+    //     SceneManager.LoadScene("BK1");
+    // }
     public void gotoCK(){
         SceneManager.LoadScene("CK1");
     }
